@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rhyle Henrick R. Crausus (aka TuftyRairu)
+# 👋 Hi, I'm Rhyle Crausus (aka TuftyRairu)
 
 💻 Full-Stack Developer | 👾 Software Quality Assurance | 🛡️ Aspiring Red Teamer | 🔍 Bug Hunter  
 🎓 BSIT Student @ USTP | 🏆 Hack4Gov CTF 1st Runner-Up
