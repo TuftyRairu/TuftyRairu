@@ -5,7 +5,7 @@
 
 ## 🔧 Tech Stack
 - **Frontend:** React.js, Next.js
-- **Backend:** PHP Laravel, Lumen
+- **Backend:** PHP Laravel, NodeJs, Express JS
 - **Testing & Security:** Cypress, Burp Suite, Postman
 - **Tools:** Docker, Git, Azure DevOps
 
@@ -15,7 +15,7 @@
 - [WebTool and GPT System](https://github.com/TuftyRairu/WebtoolandGptSystem)
 
 ## 📫 Reach Me
-- 📧 tuftmist@proton.me
+- 📧 craususrhyle@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rhyle-henrick-crausus-181553253/)
 - 🔍 [HackerOne](https://hackerone.com/tuftmist?type=user)
 
