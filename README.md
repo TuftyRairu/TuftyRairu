@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Rhyle Henrick R. Crausus (aka TuftyRairu)
 
-💻 Full-Stack Developer | 🛡️ Aspiring Red Teamer | 🔍 Bug Hunter  
+💻 Full-Stack Developer | 👾 Software Quality Assurance | 🛡️ Aspiring Red Teamer | 🔍 Bug Hunter  
 🎓 BSIT Student @ USTP | 🏆 Hack4Gov CTF 1st Runner-Up
 
 ## 🔧 Tech Stack
 - **Frontend:** React.js, Next.js
 - **Backend:** PHP Laravel, NodeJs, Express JS
 - **Testing & Security:** Cypress, Burp Suite, Postman
-- **Tools:** Docker, Git, Azure DevOps
+- **Tools:** Docker, Git, Azure DevOps, Jira
 
 ## 📂 Featured Projects
 - [scholaRSerbisyo](https://github.com/orgs/scholaRSerbisyo/repositories) – Web + Mobile system for scholar service tracking
