@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Rhyle Henrick R. Crausus (aka TuftyRairu)
 
-<!--
-**TuftyRairu/TuftyRairu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | 🛡️ Aspiring Red Teamer | 🔍 Bug Hunter  
+🎓 BSIT Student @ USTP | 🏆 Hack4Gov CTF 1st Runner-Up
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Frontend:** React.js, Next.js
+- **Backend:** PHP Laravel, Lumen
+- **Testing & Security:** Cypress, Burp Suite, Postman
+- **Tools:** Docker, Git, Azure DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [scholaRSerbisyo](https://github.com/orgs/scholaRSerbisyo/repositories) – Web + Mobile system for scholar service tracking
+- [UApp](https://github.com/TuftyRairu/UApp) – Lost and Found platform for universities
+- [WebTool and GPT System](https://github.com/TuftyRairu/WebtoolandGptSystem)
+
+## 📫 Reach Me
+- 📧 tuftmist@proton.me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rhyle-henrick-crausus-181553253/)
+- 🔍 [HackerOne](https://hackerone.com/tuftmist?type=user)
+
+![TuftyRairu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuftyRairu&show_icons=true&theme=radical)
