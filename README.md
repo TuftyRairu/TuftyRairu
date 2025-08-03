@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+TuftyRairu+%F0%9F%91%8B;Full-Stack+Dev+%7C+QA+Engineer+%7C+Bug+Hunter;Aspiring+Red+Teamer+%7C+Security-Focused" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+TuftyRairu+%F0%9F%91%8B;Full-Stack+Dev+%7C+QA+Engineer+%7C+Bug+Hunter;Aspiring+Red+Teamer+%7C+Security-Focused" alt="Typing SVG" />
 </p>
 
 ---
